@@ -1,0 +1,263 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+.local{
+    background-color: grey;
+    height: 40px;
+    color: white;
+    font-size: x-large;
+    position: static;
+}
+.localiz{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 10px;
+    right: 1000px;
+}
+.telefone{
+    font-size: x-large;
+    color: white;
+    position: absolute;
+    top: 10px;
+    right: 60px;
+}
+.Telef{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 10px;
+    right: 270px;
+}
+.header2{
+    background-color: yellow;
+    height: 60px;
+    font-size: x-large;
+    position:relative;
+    top:5%;
+}
+main{
+    width: 1320px;
+    float: left;
+}
+.inicio{
+    font-size: 35px;
+    color: yellow;
+    position: absolute;
+    top: 160px;
+    right: 350px;
+}
+.meio{
+    font-size: 19px;
+    color: whitesmoke;
+    position: absolute;
+    top: 240px;
+    right: 200px;
+    text-align: justify;
+    font-style: italic;
+}
+.painel{
+    font-size: x-large;
+    color: yellow;
+    position: relative;
+    left: 80px;
+}
+.redes{
+    height: 50px;
+    width: 50px;
+    border-bottom: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.seguidore{
+    font-size: 19px;
+    position: static;
+    left: 90px;
+    top: 170px;
+    color: whitesmoke;
+    font-style: italic;
+}
+.ruaa{
+font-size: 30px;
+color: yellow;
+position: absolute;
+right: 350px;
+top: 64%;
+}
+.mapss{
+    height: 310px;
+    width: 440px;
+    border: 5px;
+    position: absolute;
+    right: 23%;
+    top: 70%;
+}
+.menude{
+    background-image: url(../Desktop/Fundo.jpg);
+    width: 700px;
+    height: 600px;
+    background-position: bottom;
+    position: relative;
+    left: 700px;
+}
+.preferencia{
+    font-size: x-large;
+    color: white;
+    position: absolute;
+    top: 870px;
+    left: 60px;
+}
+.direcao{
+    font-size: smaller;
+    color: antiquewhite;
+    position: absolute;
+    top: 950px;
+    left: 40px;
+}
+.escolha{
+    background-color: yellow;
+    color: black;
+    font-style: normal;
+    font-size: medium;
+    position: relative;
+    bottom: 480px;
+    left: 50px;
+    border: 3px solid #768;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 170px;
+}
+.escolha:hover{
+    background: #987;
+}
+.Outros{
+    font-size: smaller;
+    color: antiquewhite;
+    position: absolute;
+    top: 1030px;
+    left: 30px;
+}
+.outro{
+    background-color: yellow;
+    color: black;
+    font-size: medium;
+    font-style: normal;
+    position: absolute;
+    top: 1056px;
+    left: 57px;
+    border: 3px solid #768;
+    border-radius: 3px;
+    cursor: crosshair;
+    width: 160px;
+}
+.outro:hover{
+    background: #768;
+}
+.Calendario{
+    font-size: x-large;
+    color: white;
+    position: absolute;
+    left: 100px;
+    top: 1137px;
+}
+.calendarios{
+    font-size: larger;
+    color: yellow;
+    position: relative;
+    left: 50px;
+    bottom: 290px;
+}
+.Pedido{
+    font-size: larger;
+    color: white;
+    position: relative;
+    bottom: 230px;
+    left: 90px;
+}
+.imgpdd{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 300px;
+    top: 1400px;
+}
+.promo{
+    background-color: yellow;
+    position: absolute;
+    width: 230px;
+    height: 70px;
+    top: 800px;
+    right: 180px;
+}
+.quadrado{
+    background-color: white;
+    position: absolute;
+    width: 280px;
+    right: 270px;
+    top: 920px;
+}
+.clique:hover{
+    background-color: #768;
+    text-decoration: none;
+}
+.link{
+    font-size: large;
+    color: black;
+    text-decoration: none;
+}
+.clique{
+    background-color: yellow;
+    text-align: center;
+}
+.retangulo{
+    background-color: white;
+    position: absolute;
+    width: 280px;
+    right: 270px;
+    top: 1100px;
+}
+.link2{
+    font-size: large;
+    color: black;
+    text-decoration: none;
+}
+.digite{
+    background-color: yellow;
+    text-align: center;
+}
+.digite:hover{
+    background-color: #768;
+    text-decoration: none;
+}
+.carrinho{
+     text-align: center;
+     font-size: large;
+     
+}
+.field2{
+    background-color: yellow;
+    position: absolute;
+    width: 250px;
+    bottom: 1200px;
+    left: 200px;
+}
+.img1{
+    position: absolute;
+    width: 200px;
+    height: 180px;
+    top: 920px;
+    left: 1065px;
+}
+.img2{
+    position: absolute;
+    width: 200px;
+    height: 180px;
+    top: 1100px;
+    left: 1065px;
+}
+.field2:hover{
+    background-color: #768;
+    text-decoration: none;
+}
+
